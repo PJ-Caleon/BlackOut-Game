@@ -3,3 +3,8 @@ A passion project using Pygame
 
 ## Description of Game
 A bullet hell where the control is mouse and you must avoid the black objects
+
+## Future Updates to Add
+1. Particle Effects
+2. Boss battle
+3. More PowerUps (Invicibility Frames, Attack Mode)
