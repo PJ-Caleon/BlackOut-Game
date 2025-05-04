@@ -1,17 +1,28 @@
-# BlackOut Game
-A passion project using Pygame
+# 🕹️ BlackOut Game
 
-## Description of Game
-A bullet hell where the control is mouse and you must avoid the black objects
+*A passion project built with Pygame.*
 
-## Future Updates to Add
-1. Particle Effects
-2. Boss battle
-3. More PowerUps (Invicibility Frames, Attack Mode)
+## 🎮 Description
 
-## How to Play?
-Option 1: 
-Download and run 'display.py'
+**BlackOut** is a fast-paced bullet hell game where you control your character using the mouse. Your goal is simple: **avoid the black objects** as long as you can!
 
-Option 2:
-URL Link to itch.io
+## 🚧 Planned Features
+
+- ✨ Particle effects  
+- 🧠 Boss battles  
+- 💥 More power-ups:
+  - Invincibility frames  
+  - Attack mode  
+
+## 🕹️ How to Play
+
+### Option 1: Run Locally
+1. Make sure you have Python and Pygame installed.
+2. Download or clone the repository.
+3. Run the game using:
+
+```bash
+python display.py
+
+### Option 2: Run on Browser
+1. Go to this link and play: <!--https://www.notion.so/Dashboard-99720054285c4eedb09c1d1bb1246ddf?p=1e8aab90080480fabf8fccf2ca82aac3&pm=s-->
