@@ -22,7 +22,7 @@
 3. Run the game using:
 
 ```bash
-python display.py
+python display.py```
 
 ### Option 2: Run on Browser
 1. Go to this link and play: <!--https://www.notion.so/Dashboard-99720054285c4eedb09c1d1bb1246ddf?p=1e8aab90080480fabf8fccf2ca82aac3&pm=s-->
