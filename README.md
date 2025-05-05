@@ -27,7 +27,7 @@
 
 ## 🕹️ How to Play
 
-### Option 1: Run on Browser
+### Option 1: Install on Itch.io
 1. Go to this link and play: [Itch.io](https://pages.github.com/)
    
 ### Option 2: Run Locally
